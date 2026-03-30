@@ -1,0 +1,22 @@
+.top {
+    display: inline-flex;
+    align-items: center;
+    margin: 15px;
+
+
+}
+.li{
+    padding-left: 10px; 
+    margin-left: 200px;
+    display: inline-flex;
+    align-items: right;
+    color: grey;
+}
+
+.logo{
+  border: 2px solid black;
+  margin-left: 20px;
+}
+ol{
+  color: grey;
+}

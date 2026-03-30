@@ -1,0 +1,16 @@
+ .top{
+    display: inline-flex;
+    align-items: center;
+
+}
+.li{
+    display: inline-flex;
+    
+  
+  margin-left: 100px;  
+
+}
+.menu :hover{
+    background-color: blue;
+  
+}
